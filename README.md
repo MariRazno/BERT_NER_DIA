@@ -18,7 +18,8 @@ Linux/Unix using bash: `export MY_BERT_MODEL_PATH="/your/desired_model/path"`
 Linux/Unix using bash: `export SAVE_FOLDER_PATH="/your/desired_save_directory/path"`
 
 4) Usage steps:
-   1. Clone this repository
-   2. Define all global variables (listed above)
-   3. Run setup.py `python setup.py`
-   4. Run __init__.py `python __init__.py`
+   1. Install python `3.11`
+   2. Clone this repository
+   3. Define all global variables (listed above)
+   4. Run setup.py `python setup.py`
+   5. Run __init__.py `python __init__.py`
