@@ -21,5 +21,5 @@ Linux/Unix using bash: `export SAVE_FOLDER_PATH="/your/desired_save_directory/pa
    1. Install python `3.11`
    2. Clone this repository
    3. Define all global variables (listed above)
-   4. Run setup.py `python setup.py`
-   5. Run __init__.py `python __init__.py`
+   4. Run setup.py `python3 setup.py`
+   5. Run __init__.py `python3 __init__.py`
