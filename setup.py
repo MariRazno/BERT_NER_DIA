@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 def get_requirements():
     # Install package dependencies
-    os.system("pip install -r requirements.txt")
+    os.system("pip3 install -r requirements.txt")
     # Download the spaCy model
     os.system("python3 -m spacy download de_core_news_sm")
 
